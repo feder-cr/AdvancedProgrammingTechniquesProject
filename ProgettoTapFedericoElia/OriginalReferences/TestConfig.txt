@@ -1,0 +1,2 @@
+..\..\..\..\TAP22_23.AuctionSite.Logic\\bin\\Debug\\net6.0\\TAP22_23.AuctionSite.Logic.dll
+Data Source=.;Initial Catalog=testproject;Integrated Security=True;
