@@ -2,6 +2,8 @@ University project of the course "TECNICHE AVANZATE DI PROGRAMMAZIONE" of the co
 
 # Online Auction Site
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Elia-0A66C2?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federico-elia-5199951b6)
+
 This project implemented core functionality for an online auction site.
 
 ## Key Features
